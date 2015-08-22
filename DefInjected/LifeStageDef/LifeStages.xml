@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<MechanoidFullyFormed.label>Completamente sviluppato.</MechanoidFullyFormed.label>
+	
+	<HumanlikeBaby.label>Neonato</HumanlikeBaby.label>
+	<HumanlikeToddler.label>Bambino</HumanlikeToddler.label>
+	<HumanlikeChild.label>Adolescente</HumanlikeChild.label>
+	<HumanlikeTeenager.label>Ragazzo</HumanlikeTeenager.label>
+	<HumanlikeAdult.label>Adulto</HumanlikeAdult.label>
+	
+	<EusocialInsectLarva.label>Larva</EusocialInsectLarva.label>
+	<EusocialInsectJuvenile.label>immaturo</EusocialInsectJuvenile.label>
+	<EusocialInsectAdult.label>Adulto</EusocialInsectAdult.label>
+	
+	<AnimalBaby.label>Neonato</AnimalBaby.label>
+	<AnimalJuvenile.label>Giovane</AnimalJuvenile.label>
+	<AnimalAdult.label>Adulto</AnimalAdult.label>
+	
+</LanguageData>

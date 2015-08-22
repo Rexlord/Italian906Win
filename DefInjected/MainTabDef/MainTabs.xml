@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<Inspect.label>Ispezionare.</Inspect.label>
+	
+	<Architect.label>Architetto</Architect.label>
+	<Architect.description>Designa dove e cosa i coloni dovrebbero costruire fattorie, magazzini oggetti, e così via.</Architect.description>
+
+	<Work.label>Lavoro</Work.label>
+	<Work.description>Scegliere quale colono fa un tipo di lavoro, e in quale ordine di priorità.</Work.description>
+
+	<Restrictions.label>Restrizioni</Restrictions.label>
+	<Restrictions.description>Coloni limitati a certe attività in determinate ore del giorno, o ad aree con permessi specifici.</Restrictions.description>
+
+	<Outfits.label>Divisa</Outfits.label>
+	<Outfits.description>Configurare ciò che ogni colono è permesso di indossare.</Outfits.description>
+
+	<Animals.label>Animali</Animals.label>
+	<Animals.description>Configurare come gli animali addomesticati della colonia dovrebbero essere trattati.</Animals.description>
+
+	<Factions.label>Fazioni</Factions.label>
+	<Factions.description>Rivedere le fazioni note alla colonia e le loro relazioni.</Factions.description>
+
+	<World.label>Mondo</World.label>
+	<World.description>Esamina la mappa del mondo.</World.description>
+
+	<History.label>Storia</History.label>
+	<History.description>Documentazione della storia della colonia.</History.description>
+
+	<Statistics.label>Statistiche</Statistics.label>
+	<Statistics.description>Esaminare le statistiche in merito alla colonia.</Statistics.description>
+
+	<Research.label>Ricerca</Research.label>
+	<Research.description>Esaminare e decidere sui progetti di ricerca.</Research.description>
+
+	<Menu.label>Menù</Menu.label>
+	<Menu.description>Modificare le opzioni, salvare, caricare o uscire dal gioco.</Menu.description>
+	
+	
+	
+</LanguageData>

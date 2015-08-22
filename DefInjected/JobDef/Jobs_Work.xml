@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+    <!--============= Item hauling ===============-->
+	
+	<HaulToCell.reportString>Trasporta TargetA.</HaulToCell.reportString>
+	
+	<HaulToContainer.reportString>Trasporta TargetA.</HaulToContainer.reportString>
+	
+    <!--============= Pawn hauling ===============-->
+	
+	<Rescue.reportString>Salva TargetA.</Rescue.reportString>
+	
+	<CarryToCryptosleepCasket.reportString>Trasporta TargetA nella capsula Cryogenica.</CarryToCryptosleepCasket.reportString>
+	
+	<Capture.reportString>Cattura TargetA.</Capture.reportString>
+	
+	<Arrest.reportString>Arresta TargetA.</Arrest.reportString>
+	
+	<ReleasePrisoner.reportString>Rilascia TargetA.</ReleasePrisoner.reportString>
+	
+	<EscortPrisonerToBed.reportString>Scorta prigioniero TargetA a letto.</EscortPrisonerToBed.reportString>
+	
+	<TakeWoundedPrisonerToBed.reportString>Porta prigioniero ferito TargetA a letto.</TakeWoundedPrisonerToBed.reportString>
+	
+	<TakeToBedToOperate.reportString>porta TargetA nel letto per operarlo.</TakeToBedToOperate.reportString>
+	
+	<Kidnap.reportString>Rapito TargetA.</Kidnap.reportString>
+	
+  <!--============= Animal handling ===============-->
+	
+	<Slaughter.reportString>Massacra TargetA.</Slaughter.reportString>
+	<Shear.reportString>Tosa TargetA.</Shear.reportString>
+	<Milk.reportString>Raccoglie latte da TargetA.</Milk.reportString>
+	<Tame.reportString>Addomestica TargetA.</Tame.reportString>
+	<Train.reportString>Allena TargetA.</Train.reportString>
+	
+
+  <!--============= Misc ===============-->
+	
+	<DeliverFood.reportString>Porta TargetB a TargetA.</DeliverFood.reportString>
+	
+	<FeedPatient.reportString>Imbocca TargetB a TargetA.</FeedPatient.reportString>
+	
+	<TreatPatient.reportString>Medica TargetA.</TreatPatient.reportString>
+	
+	<PlaceNoCostFrame.reportString>Costruisce TargetA.</PlaceNoCostFrame.reportString>
+	
+	<DoBill.reportString>Compito Potenza a TargetA.</DoBill.reportString>
+	
+	<Clean.reportString>Pulisce TargetA.</Clean.reportString>
+	
+	<Research.reportString>Ricerca.</Research.reportString>
+	
+	<Hunt.reportString>Caccia TargetA.</Hunt.reportString>
+	
+	<UseCommsConsole.reportString>Commercia.</UseCommsConsole.reportString>
+	
+	<Mine.reportString>Costruisce TargetA ab.</Mine.reportString>
+	
+	<SmoothFloor.reportString>Leviga terreno.</SmoothFloor.reportString>
+	
+	<Repair.reportString>Ripara TargetA.</Repair.reportString>
+	
+	<FinishFrame.reportString>costruisce TargetA.</FinishFrame.reportString>
+	
+	<Sow.reportString>Scrofa TargetA.</Sow.reportString>
+	
+	<Harvest.reportString>Raccoglie TargetA.</Harvest.reportString>
+	
+	<CutPlant.reportString>Taglia TargetA.</CutPlant.reportString>
+	
+	<Deconstruct.reportString>Decostruisce TargetA.</Deconstruct.reportString>
+	
+	<Uninstall.reportString>Smonta TargetA.</Uninstall.reportString>
+	
+	<PrisonerFriendlyChat.reportString>Parla col prigioniero TargetA.</PrisonerFriendlyChat.reportString>
+	
+	<PrisonerAttemptRecruit.reportString>prova a reclutare TargetA.</PrisonerAttemptRecruit.reportString>
+	
+	<PrisonerExecution.reportString>Uccide TargetA.</PrisonerExecution.reportString>
+	
+	<BuryCorpse.reportString>Brucia TargetA.</BuryCorpse.reportString>
+	
+	
+	
+	
+</LanguageData>

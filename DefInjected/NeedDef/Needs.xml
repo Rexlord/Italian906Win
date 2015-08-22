@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<Mood.label>Umore</Mood.label>
+	<Mood.description>Lo stato d'animo indica come felice o stressata la persona. Se cade troppo basso, la persona può soffrire di una crisi di nervi.</Mood.description>
+
+	<Food.label>Cibo</Food.label>
+	<Food.description>Il cibo indica i pasti nutrienti mangiati. Se scende a zero, il corpo subisce danni da fame.</Food.description>
+
+	<Rest.label>Riposo</Rest.label>
+	<Rest.description>Ricreazione indica il livello e se è stato possibile trovare il tempo per dormire.</Rest.description>
+
+	<Joy.label>Gioco</Joy.label>
+	<Joy.description>Il piacere,il bisogno è, di volta in volta il lavoro per consentire anche a riposo e di fare qualcosa di più piacevole. Si noti che la ripetizione delle stesse attività di tipo è meno efficace.</Joy.description>
+
+	<Beauty.label>Bellezza</Beauty.label>
+	<Beauty.description>L'aspetto indica come l'ambiente circostante è vissuto negli ultimi tempi.</Beauty.description>
+
+	<Comfort.label>Comfort</Comfort.label>
+	<Comfort.description>Il comfort è aumentato dal'uso regolare di arredi confortevoli.</Comfort.description>
+
+	<Space.label>Spazio</Space.label>
+	<Space.description>Lo spazio è la sensazione di libertà fisica e la possibilità di camminare liberamente,. E viene ridotto anche da soggiorni più lunghi in spazi ristretti.</Space.description>
+	
+</LanguageData>

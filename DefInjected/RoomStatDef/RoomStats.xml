@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<Impressiveness.label>Impressione</Impressiveness.label>
+	<Impressiveness.scoreStages.0.label>ripugnante</Impressiveness.scoreStages.0.label>
+	<Impressiveness.scoreStages.1.label>terribile</Impressiveness.scoreStages.1.label>
+	<Impressiveness.scoreStages.2.label>noioso</Impressiveness.scoreStages.2.label>
+	<Impressiveness.scoreStages.3.label>media</Impressiveness.scoreStages.3.label>
+	<Impressiveness.scoreStages.4.label>interessante</Impressiveness.scoreStages.4.label>
+	<Impressiveness.scoreStages.5.label>quasi impressionante</Impressiveness.scoreStages.5.label>
+	<Impressiveness.scoreStages.6.label>impressionante</Impressiveness.scoreStages.6.label>
+	<Impressiveness.scoreStages.7.label>molto impressionante</Impressiveness.scoreStages.7.label>
+	<Impressiveness.scoreStages.8.label>estremo impressionante</Impressiveness.scoreStages.8.label>
+	<Impressiveness.scoreStages.9.label>incredibile impressionante</Impressiveness.scoreStages.9.label>
+	<Impressiveness.scoreStages.10.label>fantasticamente bello</Impressiveness.scoreStages.10.label>
+	<Impressiveness.scoreStages.11.label>una meraviglia del mondo</Impressiveness.scoreStages.11.label>
+	
+	<Wealth.label>Ricchezza</Wealth.label>
+	<Wealth.scoreStages.0.label>povera</Wealth.scoreStages.0.label>
+	<Wealth.scoreStages.1.label>magra</Wealth.scoreStages.1.label>
+	<Wealth.scoreStages.2.label>mediocre</Wealth.scoreStages.2.label>
+	<Wealth.scoreStages.3.label>buona</Wealth.scoreStages.3.label>
+	<Wealth.scoreStages.4.label>ricca</Wealth.scoreStages.4.label>
+	<Wealth.scoreStages.5.label>lussuoso</Wealth.scoreStages.5.label>
+	<Wealth.scoreStages.6.label>molto lussuoso</Wealth.scoreStages.6.label>
+	<Wealth.scoreStages.7.label>estremo lussuoso</Wealth.scoreStages.7.label>
+	<Wealth.scoreStages.8.label>incredibile lussuoso</Wealth.scoreStages.8.label>
+	
+	<Space.label>Spazio</Space.label>
+	<Space.scoreStages.0.label>ristretto</Space.scoreStages.0.label>
+	<Space.scoreStages.1.label>piuttosto stretto</Space.scoreStages.1.label>
+	<Space.scoreStages.2.label>mediocre</Space.scoreStages.2.label>
+	<Space.scoreStages.3.label>quasi spazioso</Space.scoreStages.3.label>
+	<Space.scoreStages.4.label>spazioso</Space.scoreStages.4.label>
+	<Space.scoreStages.5.label>molto spazioso</Space.scoreStages.5.label>
+	<Space.scoreStages.6.label>estremo spazioso</Space.scoreStages.6.label>
+	
+	<Beauty.label>Aspetto</Beauty.label>
+	<Beauty.scoreStages.0.label>ripugnante</Beauty.scoreStages.0.label>
+	<Beauty.scoreStages.1.label>brutto</Beauty.scoreStages.1.label>
+	<Beauty.scoreStages.2.label>neutrale</Beauty.scoreStages.2.label>
+	<Beauty.scoreStages.3.label>molto bella</Beauty.scoreStages.3.label>
+	<Beauty.scoreStages.4.label>bellissimo</Beauty.scoreStages.4.label>
+	<Beauty.scoreStages.5.label>molto bellissimo</Beauty.scoreStages.5.label>
+	<Beauty.scoreStages.6.label>estremo bellissimo</Beauty.scoreStages.6.label>
+	<Beauty.scoreStages.7.label>incredibile bellissimo</Beauty.scoreStages.7.label>
+	
+	<Cleanliness.label>Pulizia</Cleanliness.label>
+	<Cleanliness.scoreStages.0.label>molto sporco</Cleanliness.scoreStages.0.label>
+	<Cleanliness.scoreStages.1.label>sporco</Cleanliness.scoreStages.1.label>
+	<Cleanliness.scoreStages.2.label>poco sporco</Cleanliness.scoreStages.2.label>
+	<Cleanliness.scoreStages.3.label>pulito</Cleanliness.scoreStages.3.label>
+	<Cleanliness.scoreStages.4.label>sterile</Cleanliness.scoreStages.4.label>
+	
+	<InfectionChanceFactor.label>Infezione fattore di probabilità</InfectionChanceFactor.label>
+	<ResearchSpeedFactor.label>Fattore di velocità di ricerca</ResearchSpeedFactor.label>
+	
+	<GraveVisitingJoyGainFactor.label>Piacere mentre visita tomba</GraveVisitingJoyGainFactor.label>
+	
+</LanguageData>

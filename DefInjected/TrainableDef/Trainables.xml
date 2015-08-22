@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+	<Obedience.label>Obbedienza</Obedience.label>
+	<Obedience.description>L'animale può essere assegnato a un master, che seguirà e difenderà.</Obedience.description>
+  
+	<Release.label>Allentare guinzaglio</Release.label>
+	<Release.description>L'animale può essere rilasciato, in modo che stia attaccando obiettivi distanti, invece di difendere solo il Maestro.</Release.description>
+  
+	<Rescue.label>Salvataggio</Rescue.label>
+	<Rescue.description>L'animale può salvare gli alleati feriti e trascinarli verso la salvezza.</Rescue.description>
+  
+	<Haul.label>Transporto</Haul.label>
+	<Haul.description>L'animale può trasportare oggetti.</Haul.description>
+	
+  
+</LanguageData>

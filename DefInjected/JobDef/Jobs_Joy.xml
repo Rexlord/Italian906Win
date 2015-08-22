@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+  <!-- Meditative -->
+	<Skygaze.reportString>Osserva il cielo.</Skygaze.reportString>
+	<Meditate.reportString>Medita.</Meditate.reportString>
+	<Pray.reportString>Prega.</Pray.reportString>
+	<GoForWalk.reportString>Passeggia.</GoForWalk.reportString>
+	<BuildSnowman.reportString>Costruisce Snowman.</BuildSnowman.reportString>
+	<VisitGrave.reportString>Visita la tomba.</VisitGrave.reportString>
+	
+  <!-- Social -->
+	<SocialRelax.reportString>Rilassato con gli altri.</SocialRelax.reportString>
+
+  <!-- Building interaction -->
+	<PlayHorseshoes.reportString>Gioca a ferri di cavallo.</PlayHorseshoes.reportString>
+	<PlayChess.reportString>Gioca a scacchi.</PlayChess.reportString>
+	<PlayBilliards.reportString>Gioca a biliardo.</PlayBilliards.reportString>
+	<WatchTelevision.reportString>Vede la TV.</WatchTelevision.reportString>
+	<UseTelescope.reportString>Utilizza telescopio.</UseTelescope.reportString>
+	
+	
+</LanguageData>

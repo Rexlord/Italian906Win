@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<Outdoors.label>All'aperto</Outdoors.label>
+	<Room.label>Stanza</Room.label>
+	<Bedroom.label>Camera da letto</Bedroom.label>
+	<PrisonCell.label>Prigione</PrisonCell.label>
+	<DiningRoom.label>Sala da pranzo</DiningRoom.label>
+	<Hospital.label>Ospedale</Hospital.label>
+	<Laboratory.label>Laboratorio</Laboratory.label>
+	<Workshop.label>Officina</Workshop.label>
+	<Barracks.label>Caserma</Barracks.label>
+	<PrisonBarracks.label>Caserma Detentiva</PrisonBarracks.label>
+	<Kitchen.label>Cucina</Kitchen.label>
+	<Tomb.label>Cripta</Tomb.label>
+	
+</LanguageData>
